@@ -2,6 +2,7 @@
 const roster = [
   { name: "Bush", role: "author" },
   { name: "Toto", role: "data engineer"}
+  { name: "Bush2", role: "author2" }
 ];
 
 export default roster;
